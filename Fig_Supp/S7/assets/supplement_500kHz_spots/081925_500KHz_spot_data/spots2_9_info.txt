@@ -1,0 +1,9 @@
+KTN: 24A6006, 4 x 3.15 x 1.2mm, Tc=23C
+
+Temp: 28C
+DC Charge:400 V
+
+DDS Vpp= 12V
+Waveform = sin
+Trigger = pulse
+DDS Frequency = 500 kHz
